@@ -5,7 +5,7 @@ Jogo educativo que ensina jovens a reconhecer as armadilhas do crédito. O jogad
 
 Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas da Universidade Santo Amaro (UNISA), 2026.
 
-**Jogar:** [link do jogo publicado]
+**Jogar:** https://thawanhenrique.github.io/divida-em-jogo/
 
 ## Objetivo
 
